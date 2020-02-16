@@ -1,0 +1,1 @@
+[{"outputType":{"type":"PROCESSED_RES"},"apkInfo":{"type":"MAIN","splits":[],"versionCode":1040,"versionName":"1.4.1","enabled":true,"outputFile":"houndify-sample-app-debug.apk","fullName":"debug","baseName":"debug"},"path":"resources-debug.ap_","properties":{"packageId":"com.soundhound.android.houndify.sample","split":"","minSdkVersion":"16"}}]

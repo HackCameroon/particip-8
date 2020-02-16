@@ -1,0 +1,14 @@
+<component name="libraryTable">
+  <library name="Gradle: hound.android:hound-models-legacy:1.4.0@aar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/hound-models-legacy-1.4.0.aar/88f9f27ed0fb4669b3cfbf8b373de009/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/hound-models-legacy-1.4.0.aar/88f9f27ed0fb4669b3cfbf8b373de009/res" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/hound.android/hound-models-legacy/1.4.0/d274d04485ba4634404e49450ee5bead5c16a85e/hound-models-legacy-1.4.0-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/hound.android/hound-models-legacy/1.4.0/993464b4cb4dfd5752586a1964d0ea4760809b61/hound-models-legacy-1.4.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

@@ -1,0 +1,4 @@
+#Sun Feb 16 06:54:54 PST 2020
+base.0=C\:\\Users\\Liron\\OneDrive\\Desktop\\houndify-sample-app\\build\\intermediates\\transforms\\dexMerger\\debug\\0
+path.0=classes.dex
+renamed.0=classes.dex

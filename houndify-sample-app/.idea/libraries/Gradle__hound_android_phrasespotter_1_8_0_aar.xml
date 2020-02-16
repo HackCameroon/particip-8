@@ -1,0 +1,14 @@
+<component name="libraryTable">
+  <library name="Gradle: hound.android:phrasespotter:1.8.0@aar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/phrasespotter-1.8.0.aar/2cc24f1c1feb0867855055d1a01d3b82/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/phrasespotter-1.8.0.aar/2cc24f1c1feb0867855055d1a01d3b82/res" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/hound.android/phrasespotter/1.8.0/7482d876e59ed2db44ed693b18480373370029ac/phrasespotter-1.8.0-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/hound.android/phrasespotter/1.8.0/59f81e5a6d1dcbb1206ed09ff68339a1ab72a06/phrasespotter-1.8.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
