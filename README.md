@@ -17,3 +17,5 @@ We ran into many challenges when connecting android workshop to the firebase.
 ## What's next for Particip8
 
 We want to keep developing particip8 in the future by connecting it to the firebase successfully and using more specific audio-detection. We need to construct the data analysis portion, in which instructors can download a spreadsheet of all the data. We also want to update the UI to make it more user friendly.
+
+https://devpost.com/software/aqv
